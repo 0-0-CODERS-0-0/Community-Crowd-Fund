@@ -23,3 +23,18 @@
 <img src="./assets/deploying.png">
 <h4>Creating Event</h4>
 <img src="./assets/creating event.png">
+<hr>
+<h1> Prerequisite Before Running this project offline </h1>
+Inside web3 folder run the following commands
+npm install hardhat
+npm run deploy
+
+Inside client folder run the following commands
+npx thirdweb create --app
+npm install react-router-dom
+npm run dev
+
+Note :- You must have a 5ire wallet account and metamask extension installed in your browser with account created on it. It is adviced to add some free tokens in order to make transaction and test the application.
+<hr>
+<h2> Demo Video Link </h2>
+https://www.youtube.com/watch?v=dupdaYG7Hw0
