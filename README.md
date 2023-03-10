@@ -15,7 +15,7 @@
 <img src="./assets/dashboard.png">
 <h4>Funding an Event</h4>
 <img src="./assets/payment.png">
-<h4>Fire Transaction Details</h4>
+<h4>5ire Transaction Details</h4>
 <img src="./assets/payment2.png">
 <h4>Tracking Transaction </h4>
 <img src="./assets/TRansaction.png">
@@ -25,14 +25,14 @@
 <img src="./assets/creating event.png">
 <hr>
 <h1> Prerequisite Before Running this project offline </h1>
-Inside web3 folder run the following commands
-npm install hardhat
-npm run deploy
+Inside web3 folder run the following commands<br>
+npm install hardhat<br>
+npm run deploy<br>
 
-Inside client folder run the following commands
-npx thirdweb create --app
-npm install react-router-dom
-npm run dev
+Inside client folder run the following commands<br>
+npx thirdweb create --app<br>
+npm install react-router-dom<br>
+npm run dev<br>
 
 Note :- You must have a 5ire wallet account and metamask extension installed in your browser with account created on it. It is adviced to add some free tokens in order to make transaction and test the application.
 <hr>
